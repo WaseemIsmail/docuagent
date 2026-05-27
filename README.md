@@ -94,6 +94,3 @@ streamlit run app.py
 python mcp_server.py
 ```
 
-## Project Purpose
-
-This project demonstrates hands-on experience with LLM application development, OpenAI API integration, document-based question answering, simple agentic workflows, prompt engineering, and basic MCP tool server implementation.
